@@ -1,4 +1,4 @@
-# KELOMPOK 6 (KEPEGAWAIAN)
+# KELOMPOK 6 (AMAZON WEB SERVICE (AWS))
 
 Anngota Kelompok :
 1. 5200411200 Alfandi Yahya Muhaimin
